@@ -4,6 +4,14 @@
 <!-- Introduction -->
 <p align="center"><b>Computer Vision Engineer</b> <a href="https://www.sysnav.fr/?lang=en" target="_blank">@SYSNAV</a> (FRA) with a strong background in Data Science and Statistics. <br> Currently in my final year of a double Master of Engineering degree.</p>
 
+<!-- Connect -->
+## Connect with Me 🌐
+
+Let's connect and collaborate!
+
+- [LinkedIn](https://www.linkedin.com/in/tristan-k-/)
+- [Email](mailto:tristan.kirscher@gmail.com)
+
 <!-- Projects -->
 ## Projects 🛠️
 
@@ -31,12 +39,3 @@
 ## Thank You for Visiting!
 
 Thank you for visiting my _GitHub_ profile. I'm passionate about leveraging my skills in Computer Vision, Deep Learning, and Data Science to make a positive impact. Feel free to connect with me!
-
-<!-- Connect -->
-## Connect with Me 🌐
-
-Let's connect and collaborate!
-
-- [LinkedIn](https://www.linkedin.com/in/tristan-k-/)
-- [Email](mailto:tristan.kirscher@gmail.com)
-
