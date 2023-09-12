@@ -13,7 +13,7 @@
 - **Description:** Conducted a project on _"Text Mining and Health Care Pathway: What are the causes of mortality in heart failure patients?"_ The aim was to study the care pathways of heart failure patients through NLP and sequential pattern mining, then implement a survival analysis model.
 
 <!-- Education -->
-## Relevant Education 📚
+## Education 📚
 
 - **_Engineering Master's Degree in Statistics and Economics_** at **ENSAE Paris - IP Paris** (FRA)
   - *2022-2024*
@@ -27,15 +27,16 @@
 - **_Erasmus+ Programme_** at **Karlsruher Institut für Technologie: KIT** (DE)
   - Took courses in Machine Learning, Knowledge Discovery, Applied Econometrics, and Financial Accounting.
 
+<!-- Thank You -->
+## Thank You for Visiting!
+
+Thank you for visiting my GitHub profile. I'm passionate about leveraging my skills in Computer Vision, Deep Learning, and Data Science to make a positive impact. Feel free to connect with me!
+
 <!-- Connect -->
 ## Connect with Me 🌐
 
-Feel free to connect with me on these platforms:
+Let's connect and collaborate!
 
 - [LinkedIn](https://www.linkedin.com/in/tristan-k-/)
 - [Email](mailto:tristan.kirscher@gmail.com)
 
-<!-- Thank You -->
-## Thank You for Visiting!
-
-Thank you for visiting my GitHub profile. I'm passionate about leveraging my skills in Computer Vision, Deep Learning, and Data Science to make a positive impact. Let's connect and collaborate!
