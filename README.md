@@ -36,6 +36,6 @@ Let's connect and collaborate!
   - Took courses in Machine Learning, Knowledge Discovery, Applied Econometrics, and Financial Accounting.
 
 <!-- Thank You -->
-## Thank You for Visiting!
+## Thank You for Visiting! 👋
 
 Thank you for visiting my _GitHub_ profile. I'm passionate about leveraging my skills in Computer Vision, Deep Learning, and Data Science to make a positive impact. Feel free to connect with me!
