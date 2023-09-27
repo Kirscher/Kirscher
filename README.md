@@ -2,7 +2,7 @@
 <h1 align="center">Tristan Kirscher</h1>
 
 <!-- Introduction -->
-<p align="center"><b>Computer Vision Engineer</b> <a href="https://www.sysnav.fr/?lang=en" target="_blank">@SYSNAV</a> (FRA) with a strong background in Data Science and Statistics. <br> Currently in my final year of a double Master of Engineering degree.</p>
+<p align="center"><b>Computer Vision Engineer</b> <a href="https://www.sysnav.fr/?lang=en" target="_blank">@SYSNAV</a> (FRA) with a strong background in Data Science and Statistics. <br> Currently in my final year of a double MSc. degree.</p>
 
 <!-- Connect -->
 ## Connect with Me 🌐
@@ -23,12 +23,12 @@ Let's connect and collaborate!
 <!-- Education -->
 ## Education 📚
 
-- **_Engineering Master's Degree in Statistics and Economics_** at **ENSAE Paris - IP Paris** (FRA)
+- **_MSc. in Statistics and Economics_** at **ENSAE Paris - IP Paris** (FRA)
   - *2022-2024*
   - Focused on Statistics, Machine Learning, and Simulation.
   - Also studied Advanced Econometrics, Macroeconomics, Microeconomics, and Financial Analysis.
 
-- **_Master's Degree in Science and Executive Engineering_** at **Mines de Saint-Etienne** (FRA)
+- **_MSc. in Engineering_** at **Mines de Saint-Etienne** (FRA)
   - *2020-2023*
   - Achieved the title of _"Ingénieur Civil des Mines"_ with expertise in Data Science, Big Data, and Numerical Analysis.
 
