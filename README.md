@@ -33,7 +33,7 @@ Let's connect and collaborate!
   - Achieved the title of _"Ingénieur Civil des Mines"_ with expertise in Data Science, Big Data, and Numerical Analysis.
 
 - **_Erasmus+ Programme_** at **Karlsruher Institut für Technologie: KIT** (DE)
-  - Took courses in Machine Learning, Knowledge Discovery, Applied Econometrics, and Financial Accounting.
+  - Took MSc. courses in Machine Learning, Knowledge Discovery, Applied Econometrics, Risk Management, and Financial Accounting.
 
 <!-- Thank You -->
 ## Thank You for Visiting! 👋
