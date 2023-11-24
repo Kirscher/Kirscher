@@ -23,14 +23,14 @@ Let's connect and collaborate!
 <!-- Education -->
 ## Education 📚
 
-- **_MSc. in Statistics and Economics_** at **ENSAE Paris - IP Paris** (FRA)
+- **_MSc._** in **_Statistics and Economics_** at **ENSAE Paris - IP Paris** (FRA)
   - *2022-2024*
   - Focused on Statistics, Machine Learning, and Simulation.
   - Also studied Advanced Econometrics, Macroeconomics, Microeconomics, and Financial Analysis.
 
-- **_MSc. in Engineering_** at **Mines de Saint-Etienne** (FRA)
+- **_MSc._** in **_Engineering_** at **Mines de Saint-Etienne** (FRA)
   - *2020-2023*
-  - Achieved the title of _"Ingénieur Civil des Mines"_ with expertise in Data Science, Big Data, and Numerical Analysis.
+  - Achieved the title of _"Ingénieur Civil des Mines"_ (general engineering degree) with expertise in Data Science, Big Data, and Numerical Analysis.
 
 - **_Erasmus+ Programme_** at **Karlsruher Institut für Technologie: KIT** (DE)
   - Took MSc. courses in Machine Learning, Knowledge Discovery, Applied Econometrics, Risk Management, and Financial Accounting.
