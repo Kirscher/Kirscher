@@ -7,7 +7,7 @@
 <!-- Connect -->
 ## Connect with Me 🌐
 
-Let's connect and collaborate!
+Thank you for visiting my GitHub profile. Let's connect and collaborate!
 
 - [LinkedIn](https://www.linkedin.com/in/tristan-k-/)
 - [Email](mailto:tristan.kirscher@gmail.com)
@@ -34,8 +34,3 @@ Let's connect and collaborate!
 
 - **_Erasmus+ Programme_** at **Karlsruher Institut für Technologie: KIT** (DE)
   - Took MSc. courses in Machine Learning, Knowledge Discovery, Applied Econometrics, Risk Management, and Financial Accounting.
-
-<!-- Thank You -->
-## Thank You for Visiting! 👋
-
-Thank you for visiting my _GitHub_ profile. I'm passionate about leveraging my skills in Computer Vision, Deep Learning, and Data Science to make a positive impact. Feel free to connect with me!
