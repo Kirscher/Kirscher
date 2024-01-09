@@ -2,7 +2,7 @@
 <h1 align="center">Tristan Kirscher</h1>
 
 <!-- Introduction -->
-<p align="center"><b>Computer Vision Engineer</b> <a href="https://www.sysnav.fr/?lang=en" target="_blank">@SYSNAV</a> (FRA) with a strong background in Data Science and Statistics. <br> Currently in my final year of a double MSc. degree.</p>
+<p align="center"><b>Computer Vision Research Engineer</b> <a href="https://www.sysnav.fr/?lang=en" target="_blank">@SYSNAV</a> (FRA) with a strong background in Data Science and Statistics. <br> Currently in my final year of a double MSc. degree.</p>
 
 <!-- Connect -->
 ## Connect with Me 🌐
@@ -33,4 +33,4 @@ Thank you for visiting my GitHub profile. Let's connect and collaborate!
   - Achieved the title of _"Ingénieur Civil des Mines"_ (general engineering degree) with expertise in Data Science, Big Data, and Numerical Analysis.
 
 - **_Erasmus+ Programme_** at **Karlsruher Institut für Technologie: KIT** (DE)
-  - Took MSc. courses in Machine Learning, Knowledge Discovery, Applied Econometrics, Risk Management, and Financial Accounting.
+  - MSc. courses in Machine Learning, Knowledge Discovery, Applied Econometrics, Risk Management, and Financial Accounting.
