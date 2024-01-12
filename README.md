@@ -12,7 +12,7 @@
 - **Duration:** November 2022 - May 2023 (6 months)
 - **Description:** Conducted a project on _"A Novel Methodological Framework for Analyzing Health Trajectories and Survival Outcomes in Heart Failure Patients"_. The aim was to study the care pathways of heart failure patients through NLP and sequential pattern mining, then implement a survival analysis model.
 
-### _Topical State Space LSTM_ [Repo](https://github.com/yanisrem/SSM-Project)
+### _Topical State Space LSTM for NLP_ [Repo](https://github.com/yanisrem/SSM-Project)
 - **Organization:** ENSAE - IP Paris
 - **Course:** Hidden Markov Models and Sequential Monte Carlo Methods (N. Chopin)
 - **Description:** Implementation of the Topical State Space LSTM model for text sequence analysis, as described in "State Space LSTM Models with Particle MCMC Inference" by Xun Zheng et al., 2017
