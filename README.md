@@ -11,6 +11,7 @@
 - **Organization:** Assistance Publique - Hôpitaux de Paris (Paris, FRA)
 - **Duration:** November 2022 - May 2023 (6 months)
 - **Description:** Conducted a project on _"A Novel Methodological Framework for Analyzing Health Trajectories and Survival Outcomes in Heart Failure Patients"_. The aim was to study the care pathways of heart failure patients through NLP and sequential pattern mining, then implement a survival analysis model.
+- Accepted [Paper](https://arxiv.org/abs/2403.03138) at _Learning from Time Series for Health_ Workshop **ICLR 2024**
 
 ### _Topical State Space LSTM for NLP_ [Repo](https://github.com/yanisrem/SSM-Project)
 - **Organization:** ENSAE - IP Paris
