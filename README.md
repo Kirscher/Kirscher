@@ -24,7 +24,7 @@
 - **_MSc._** in **_Statistics and Economics_** at **ENSAE Paris - IP Paris** (FRA)
   - *2022-2024*
   - Focus on Statistics, Machine Learning, and Deep Learning.
-  - Also studied Advanced Econometrics, Macroeconomics, Microeconomics, and Financial Analysis.
+  - Also studied Advanced Econometrics, Macro. and Microeconomics, Financial Analysis.
 
 - **_MSc._** in **_Engineering_** at **Mines de Saint-Etienne** (FRA)
   - *2020-2023*
