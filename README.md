@@ -5,7 +5,7 @@
 <p align="center"><b>Computer Vision Research Engineer</b> <a href="https://www.sysnav.fr/?lang=en" target="_blank">@SYSNAV</a> (FRA) with a strong background in Data Science and Statistics. <br> Currently in my final year of a double MSc. degree.</p>
 
 <!-- Projects -->
-## Projects 🛠️
+## Some Projects 🛠️
 
 ### _Text Mining and Health Care Pathway_ [Repo](https://github.com/Kirscher/TextMining_Parcours_de_soin)
 - **Organization:** Assistance Publique - Hôpitaux de Paris (Paris, FRA)
