@@ -1,12 +1,9 @@
-<!-- Title -->
-<h1 align="center">Tristan Kirscher</h1>
-
-<!-- Introduction -->
-<p align="center"><b>Computer Vision Research Engineer</b> <a href="https://www.sysnav.fr/?lang=en" target="_blank">@SYSNAV</a> (FRA) with a strong background in Data Science and Statistics. <br> Currently in my final year of a double MSc. degree.</p>
-
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Kirscher&rank_icon=github&show_icons=true&hide_border=true">
 </p>
+
+<!-- Introduction -->
+<p align="center"><b>Computer Vision Research Engineer</b> <a href="https://www.sysnav.fr/?lang=en" target="_blank">@SYSNAV</a> (FRA) with a strong background in Data Science and Statistics.</p>
 
 <!-- Projects -->
 ## Some Projects 🛠️
