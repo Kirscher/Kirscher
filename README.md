@@ -10,7 +10,7 @@
 
 ### _Text Mining and Health Care Pathway_ [Repo](https://github.com/Kirscher/TextMining_Parcours_de_soin)
 - _"A Novel Methodological Framework for Analyzing Health Trajectories and Survival Outcomes in Heart Failure Patients"_. 
-- Accepted [Paper](https://arxiv.org/abs/2403.03138) at _Learning from Time Series for Health_ Workshop **ICLR 2024**
+- Accepted [Paper](https://arxiv.org/abs/2403.03138) at **ICLR 2024** _Learning from Time Series for Health_ Workshop 
 
 ### _Topical State Space LSTM for NLP_ [Repo](https://github.com/yanisrem/SSM-Project)
 - Implementation of the Topical State Space LSTM model for text sequence analysis, as described in _"State Space LSTM Models with Particle MCMC Inference"_ by Xun Zheng et al., 2017
