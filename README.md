@@ -8,7 +8,7 @@
 <!-- Projects -->
 ## Some Projects 🛠️
 
-### _Analyzing Health Trajectories and Survival Outcomes in HF Patients_ [Repo](https://github.com/Kirscher/TextMining_Parcours_de_soin)
+### _Health Trajectories and Survival Outcomes in HF Patients_ [Repo](https://github.com/Kirscher/TextMining_Parcours_de_soin)
 - _"A Novel Methodological Framework for Analyzing Health Trajectories and Survival Outcomes in Heart Failure Patients"_. 
 - Accepted [Paper](https://arxiv.org/abs/2403.03138) at **ICLR 2024** _Learning from Time Series for Health_ Workshop 
 
