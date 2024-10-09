@@ -3,7 +3,7 @@
 </p>
 
 <!-- Introduction -->
-<p align="center"><b>Computer Vision Research Engineer</b> <a href="https://www.sysnav.fr/?lang=en" target="_blank">@SYSNAV</a> with a strong background in Data Science and Statistics.</p>
+<p align="center"><b>PhD Student in AI</b> | Medical Imaging & Uncertainty Quantification</p>
 
 <!-- Projects -->
 ## Some Projects 🛠️
