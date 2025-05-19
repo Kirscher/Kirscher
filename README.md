@@ -32,5 +32,6 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/Project-MONAI">
   <img alt="MONAI" src="https://img.shields.io/badge/Contributor-Project--MONAI-brightgreen?style=flat&logo=github">
 </p>
