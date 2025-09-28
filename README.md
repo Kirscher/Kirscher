@@ -8,7 +8,7 @@
   <a href="https://www.icans.eu/en/">ICANS</a> × 
   <a href="https://images.icube.unistra.fr/en/index.php/Home">ICUBE IMAGeS</a>
 </p>
-<p align="center"><em>Medical Imaging & Uncertainty Quantification</em></p>
+<p align="center"><em>AI | Medical Imaging & Uncertainty Quantification</em></p>
 <hr/>
 
 <p align="center">
