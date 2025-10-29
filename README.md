@@ -28,7 +28,6 @@
   <img alt="Pandas"       src="https://img.shields.io/badge/-Pandas?style=for-the-badge&logo=pandas&logoColor=black&color=white" />
   <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit--learn?style=for-the-badge&logo=scikit-learn&logoColor=black&color=white" />
   <img alt="PyTorch"      src="https://img.shields.io/badge/-PyTorch?style=for-the-badge&logo=pytorch&logoColor=black&color=white" />
-  <img alt="ONNX"         src="https://img.shields.io/badge/-ONNX?style=for-the-badge&logo=onnx&logoColor=black&color=white" />
 </p>
 
 <p align="center">
