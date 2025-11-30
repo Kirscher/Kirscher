@@ -1,14 +1,10 @@
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kirscher&rank_icon=github&show_icons=true&hide_border=true">
-</p>
-
 <hr/>
-<p align="center"><strong>PhD Candidate in AI</strong></p>
+<p align="center"><strong>Tristan Kirscher</strong></br>PhD Candidate in AI</strong></p>
 <p align="center">
-  <a href="https://www.icans.eu/en/">ICANS</a> × 
-  <a href="https://images.icube.unistra.fr/en/index.php/Home">ICUBE IMAGeS</a>
+  <a href="https://images.icube.unistra.fr/en/index.php/Home">ICUBE IMAGeS</a> × 
+  <a href="https://www.icans.eu/en/">ICANS</a>
 </p>
-<p align="center"><em>AI | Medical Imaging & Uncertainty Quantification</em></p>
+<p align="center">Deep Learning, Computer Vision | Medical Imaging & Uncertainty Quantification</p>
 <hr/>
 
 <p align="center">
