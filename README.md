@@ -1,8 +1,8 @@
 <hr/>
 <p align="center"><strong>Tristan Kirscher</strong></br>PhD Candidate in AI</strong></p>
 <p align="center">
-  <a href="https://images.icube.unistra.fr/en/index.php/Home">ICUBE IMAGeS</a> × 
-  <a href="https://www.icans.eu/en/">ICANS</a>
+  <a href="https://images.icube.unistra.fr/en/index.php/Home">ICube IMAGeS</a> × 
+  <a href="https://www.institut-strauss.fr/">Institut Strauss</a>
 </p>
 <p align="center">Deep Learning, Computer Vision | Medical Imaging & Uncertainty Quantification</p>
 <hr/>
