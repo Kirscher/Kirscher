@@ -1,5 +1,5 @@
 <hr/>
-<p align="center"><strong>Tristan Kirscher</strong></br>PhD Candidate in AI</strong></p>
+<p align="center"><strong>Tristan Kirscher</strong></br>PhD Candidate in ML</strong></p>
 <p align="center">
   <a href="https://images.icube.unistra.fr/en/index.php/Home">ICube IMAGeS</a> × 
   <a href="https://www.institut-strauss.fr/">Institut Strauss</a>
